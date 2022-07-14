@@ -1,7 +1,7 @@
 # monty
 Alx C - Stacks, Queues - LIFO, FIFO
 
-chmod u+x monty.h && git add --chmod=+x main.h && git commit -m 'header file main.h' && git push
+chmod u+x monty.h && git add --chmod=+x monty.h && git commit -m 'header file main.h' && git push
 
 chmod u+x pall.c && git add --chmod=+x pall.c && git commit -m 'Task 00 Implement the push and pall opcodes pall.c' && git push
 
